@@ -8,7 +8,9 @@ This repository contains my solutions to problems from codeforces online judge.
 ## 📌 Platforms
 - Codeforces
 ---
-
+## Contest Name
+- Codeforces Round 1054 (Div. 3)
+- 
 ## 🛠 Language
 - C++
 
