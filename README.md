@@ -1,7 +1,7 @@
 # 💻 Competitive Programming Solutions
 
 Welcome to my competitive programming repository! 🚀  
-This repository contains my solutions to problems from various online judges.
+This repository contains my solutions to problems from codeforces online judge.
 
 ---
 
