@@ -35,8 +35,8 @@ This repository contains my solutions to problems from various online judges.
 ---
 
 ## 👨‍💻 Author
-**Shifatullah**  
-**Dept. of CSE**
+**MD.Sifatullah**  
+**Dept. of CSE** <br>
 **University of Rajshahi**
 
 ---
